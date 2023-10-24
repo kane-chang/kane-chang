@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kane-chang
-- 👀 I’m interested in front-end developer roles
+- 👀 I’m interested in software developer roles
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Python and more!
 - 📫 Reach me via email at kane.chang.fl@gmail.com!
 
