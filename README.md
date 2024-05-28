@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kane-chang, a web developer from Singapore based in London. 
-- 👀 Self-motivated Web Developer and analytical thinker with a background in Philosophy. Proficient in modern front-end frameworks and UX design, and a demonstrated track record of a robust work ethic and proactive communication across diverse roles. Eager to contribute to and absorb knowledge in a dynamic, fast-growing environment!
+- 👋 Hi, I’m @kane-chang, a Fullstack Engineer from Singapore based in London. 
+- 👀 Fullstack Engineer with multiple proven project experiences as the primary engineer with React, Typescript, and JavaScript. Track record of high performance, quick learning, and proactiveness working in ambiguous and fast-paced environments
 - 🌱 I’m currently developing GameSync, a gaming scheduler web app, with a dedicated team to solve problems for gamers around the world.
 - 📫 Reach me via email at kane.chang.fl@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kane-chang/)!
 
