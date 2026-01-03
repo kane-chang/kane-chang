@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kane-chang, a Frontend Engineer based in London @ Raylo. 
+- 👋 Hi, I’m @kane-chang, a Senior Frontend Engineer based in London @ Raylo. 
 - 📫 Reach me via email at kane.chang.fl@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kane-chang/)!
 
 <!---
